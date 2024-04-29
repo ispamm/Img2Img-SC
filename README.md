@@ -1,5 +1,5 @@
 <center>
-# Img2Img-SC  
+Img2Img-SC  
 </center>
 
 This is the official implementation of the paper:
