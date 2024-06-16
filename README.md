@@ -1,3 +1,10 @@
+<div align="center">
+
+ <img width="100%" src="samples_paper/Architecture.PNG">
+
+</div>
+
+
 ## Img2Img-SC
 
 This is the official implementation of the paper: [Language-Oriented Semantic Latent Representation for Image Transmission](https://arxiv.org/abs/2405.09976)
@@ -5,9 +12,7 @@ This is the official implementation of the paper: [Language-Oriented Semantic La
 ## News
 
 
-**June 17, 2024**
-
-*Code Released*
+**June 17, 2024**  *Code Released*
 
 ________________________________
   
@@ -71,13 +76,34 @@ python /scripts/semantic_t2i.py
 ```
 and adapt the checkpoint and config paths accordingly.
 
+## Results
 
+<div align="center">
 
+ <img width="100%" src="samples_paper/firstPageImg.PNG">
+
+</div>
+
+<div align="center">
+
+ <img width="100%" src="samples_paper/image.png">
+
+</div>
+
+<div align="center">
+
+ <img width="100%" src="samples_paper/results.png">
+
+</div>
 
 
 ## License
 
 The code in this repository is released under the MIT License.
+
+## Acknowledgment 
+
+Most of the code contained in this repository is based on Stable diffusion repository https://github.com/Stability-AI/stablediffusion
 
 
 ## BibTeX
