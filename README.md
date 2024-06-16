@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-## Img2Img-SC
+
 
  # Language-Oriented Semantic Latent Representation for Image Transmission
 
