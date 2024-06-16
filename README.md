@@ -80,19 +80,19 @@ and adapt the checkpoint and config paths accordingly.
 
 <div align="center">
 
- <img width="100%" src="samples_paper/firstPageImg.PNG">
+ <img width="60%" src="samples_paper/firstPageImg.PNG">
 
 </div>
 
 <div align="center">
 
- <img width="100%" src="samples_paper/image.png">
+ <img width="60%" src="samples_paper/image.png">
 
 </div>
 
 <div align="center">
 
- <img width="100%" src="samples_paper/results.png">
+ <img width="60%" src="samples_paper/results.png">
 
 </div>
 
