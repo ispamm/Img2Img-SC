@@ -4,10 +4,24 @@
 
 </div>
 
-
+<div align="center">
 ## Img2Img-SC
 
+ # Language-Oriented Semantic Latent Representation for Image Transmission
+
+> [**Language-Oriented Semantic Latent Representation for Image Transmission**](https://arxiv.org/abs/2405.09976)
+> [Giordano Cicchetti](https://www.linkedin.com/in/giordano-cicchetti-1ab73b258/), [Eleonora Grassucci](https://scholar.google.com/citations?user=Jcv0TgQAAAAJ&hl=it),
+> [Jihong Park](https://scholar.google.com/citations?user=I0CO72QAAAAJ&hl=en),[Jinho Choi](https://scholar.google.co.uk/citations?user=QzFia5YAAAAJ&hl=en)
+> [Sergio Barbarossa](https://scholar.google.com/citations?user=2woHFu8AAAAJ&hl=en),[Danilo Comminiello](https://scholar.google.com/citations?user=H3Y52cMAAAAJ&hl=en)
+
+</div>
+
+
 This is the official implementation of the paper: [Language-Oriented Semantic Latent Representation for Image Transmission](https://arxiv.org/abs/2405.09976)
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2404.05669)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fispamm%2FImg2Img-SC%2Ftree%2Fmain&label=VISITORS&countColor=%23263759)
 
 ## News
 
